@@ -41,4 +41,4 @@ Then, run this command:
 
 # Acknowledgement
 
-This project is built upon [PFENet](https://github.com/dvlab-research/PFENet) and [CyCTR_Pytorch](https://github.com/YanFangCS/CyCTR-Pytorch), thanks for their great works!
+This project is built upon [CyCTR_Pytorch](https://github.com/YanFangCS/CyCTR-Pytorch) and [ASGNet](https://github.com/Reagan1311/ASGNet), thanks for their great works!
