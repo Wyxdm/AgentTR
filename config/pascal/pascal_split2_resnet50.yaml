@@ -33,8 +33,8 @@ TRAIN:
   print_freq: 100
   save_freq: 20
   save_path: exp/pascal/split2_resnet50/model
-  weight: # /ssd/wy/few-shot-seg/cyc/cycTR_v21/exp/pascal/split2_resnet50/model/train_epoch_63_0.5785619932005279.pth
-  resume: # /home/wy/few-shot-seg/cyc/cycTR_v21/exp/pascal/split0_resnet50/model/train_epoch_5_0.6126111147243757.pth
+  weight: # /ssd/wy/few-shot-seg/exp/pascal/split2_resnet50/model/train_epoch_63_0.5785619932005279.pth
+  resume: # /home/wy/few-shot-seg/exp/pascal/split0_resnet50/model/train_epoch_5_0.6126111147243757.pth
   evaluate: True
   split: 2
   shot: 1
