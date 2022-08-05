@@ -1,5 +1,5 @@
-# CyCTR-PyTorch
-This is a PyTorch implementation of ECCV 2022 paper "[Adaptive Agent Transformer for Few-shot Segmentation]
+# AgentTR
+This is a PyTorch implementation of AA-Former
 
 # Usage
 
