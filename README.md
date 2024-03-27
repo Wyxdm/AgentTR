@@ -1,5 +1,5 @@
 # AgentTR
-This is a PyTorch implementation of AA-Former
+This is a PyTorch implementation of ECCV2022 paper [**Adaptive Agent Transformer for Few-Shot Segmentation**](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136890035.pdf)
 
 # Usage
 
